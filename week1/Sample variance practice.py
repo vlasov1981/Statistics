@@ -17,5 +17,4 @@ x2 = [7, 13, 8, 10, 7, 10, 7, 11, 8, 10, 7, 6]
 print(statistics.variance(x1))
 print(statistics.variance(x2))"""
 
-# Sample variance skill test
 
